@@ -7,7 +7,7 @@
     }
     double hexa(double a)
     {
-        return (((3 * Math.Sqrt(3)) / 2) * (a * a));
+        return (((3 * Math.Sqrt(3)) / 2) * (a * a)); //formule de l'hexa
     }
 
     Console.WriteLine("entre ta longueur et largeur");
