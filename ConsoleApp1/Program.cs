@@ -1,7 +1,7 @@
 ﻿    // See https://aka.ms/new-console-template for more information
     Console.WriteLine("Hello, World!");
 
-    double air(double a, double b)
+    double air(double a, double b) // formule du rectangle
     {
         return a * b;
     }
